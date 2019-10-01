@@ -1,7 +1,7 @@
-##BrainFuck
-<p>
+#BrainFuck
+
 f*ks your brain !!!
-</p>
+
   
   
 #Convert to ASCII
