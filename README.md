@@ -1,8 +1,9 @@
-#BrainFuck
+# BrainFuck
+loving it... :D :D
 
-  
-#Convert to ASCII
+
+# Convert to ASCII
 http://www.unit-conversion.info/texttools/ascii/
 
-#Testing your script!!
+# Testing your script!!
 https://copy.sh/brainfuck/
